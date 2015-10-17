@@ -1,0 +1,23 @@
+/* app css stylesheet */
+body{
+	background-color: white;
+	font-family: "Open Sans",sans-serif;
+	
+}
+
+#sectionCircuitPath {
+	background-color: #49F560;
+	color: white;
+	
+}
+#sectionEtapePath {
+	background-color: #ffffff;
+	color: #8A8A8A;
+	
+}
+.row {
+  position: relative;
+  padding: 30px;  
+  margin: 0px -100px 0px -100px;
+}
+
